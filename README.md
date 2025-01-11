@@ -29,12 +29,6 @@ Users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-### Screenshot
-
-![Desktop View](./public/screenshots/desktop.png)
-
-![Mobile View](./public/screenshots/mobile.png)
-
 ### Built with
 
 - ReactJS
