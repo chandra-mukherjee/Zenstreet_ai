@@ -77,7 +77,7 @@ export default function PersonalInfo() {
                         "border-c-primary-strawberry-red": errors.name?.message,
                       }
                     )}
-                    placeholder="e.g. Stephen King"
+                    placeholder="e.g. Chandra Mukherjee"
                     {...field}
                   />
                 </FormControl>
@@ -102,7 +102,7 @@ export default function PersonalInfo() {
                           errors.email?.message,
                       }
                     )}
-                    placeholder="e.g. stephenking@lorem.com"
+                    placeholder="e.g. chandramukherjee233@gmail.com"
                     {...field}
                   />
                 </FormControl>
@@ -127,7 +127,7 @@ export default function PersonalInfo() {
                           errors.phone?.message,
                       }
                     )}
-                    placeholder="e.g. +1 234 567 890"
+                    placeholder="e.g. +91 6789567810"
                     {...field}
                   />
                 </FormControl>
